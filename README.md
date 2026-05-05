@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E8FA,45:C2DCF7,100:A9CBEE&height=220&section=header&text=minhnguyen376&fontSize=52&fontColor=0D3B6E&fontAlignY=42&desc=Data%20Analyst%20%2F%20Data%20Scientist%20%2F%20Product%20Engineer&descSize=18&descAlignY=65&descColor=0D3B6E&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E8FA,45:C2DCF7,100:A9CBEE&height=220&section=header&text=Mnhnguyen376&fontSize=52&fontColor=0D3B6E&fontAlignY=42&desc=Business%20Analyst%20%2F%20Data%20Scientist%20%2F%20Product%20Engineer&descSize=18&descAlignY=65&descColor=0D3B6E&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
 *Building intelligent solutions, one commit at a time*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=0D3B6E&center=true&vCenter=true&width=520&lines=Data+Analyst+%26+Data+Scientist+%F0%9F%93%8A;Economic+Thinking+%2B+Tech+Execution+%F0%9F%92%A1;Full-Stack+when+the+product+needs+it+%F0%9F%9A%80;Scoring+Systems+%26+Data+Pipelines+%F0%9F%94%A7;Always+building+with+purpose+%F0%9F%A6%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=0D3B6E&center=true&vCenter=true&width=620&lines=Business+Analyst+%7C+Data+Analyst+%7C+Data+Scientist+%F0%9F%93%8A;Turning+data+into+product+decisions+that+scale+%F0%9F%92%A1;Designing+scoring+frameworks+for+business+impact+%F0%9F%8E%AF;Building+reliable+pipelines+from+source+to+insight+%F0%9F%94%A7;Bridging+strategy+and+technical+execution+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/minhnguyen376?style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Followers&logo=github&logoColor=0D3B6E" />
+  <img src="https://img.shields.io/github/followers/Mnhnguyen376?style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Followers&logo=github&logoColor=0D3B6E" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Minhnguyen376&style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mnhnguyen376&style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Profile+Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Data%20%26%20Product-0D3B6E?style=flat-square&labelColor=D6E8FA" />
   &nbsp;
@@ -178,21 +178,21 @@ class minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mnhnguyen376&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=38bdf8&text_color=9d8cb0&ring_color=a78bfa&cache_seconds=1800" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnhnguyen376&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0a0a0f&title_color=a78bfa&text_color=9d8cb0&cache_seconds=1800" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Minhnguyen376&hide_border=true&background=D6E8FA&stroke=0D3B6E&ring=0D3B6E&fire=0D3B6E&currStreakLabel=0D3B6E&sideLabels=0D3B6E&dates=0D3B6E&currStreakNum=0D3B6E&sideNums=0D3B6E" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=Mnhnguyen376&hide_border=true&background=D6E8FA&stroke=0D3B6E&ring=0D3B6E&fire=0D3B6E&currStreakLabel=0D3B6E&sideLabels=0D3B6E&dates=0D3B6E&currStreakNum=0D3B6E&sideNums=0D3B6E" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhnguyen376&bg_color=D6E8FA&color=0D3B6E&line=0D3B6E&point=0D3B6E&area_color=C2DCF7&hide_border=true&area=true" width="94%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnhnguyen376&bg_color=D6E8FA&color=0D3B6E&line=0D3B6E&point=0D3B6E&area_color=C2DCF7&hide_border=true&area=true" width="94%"/>
 </div>
 
 ---
@@ -214,9 +214,9 @@ class minhnguyen376:
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-D6E8FA?style=for-the-badge&logo=facebook&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://facebook.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E8FA?style=for-the-badge&logo=linkedin&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D6E8FA?style=for-the-badge&logo=gmail&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](mailto:your.email@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-D6E8FA?style=for-the-badge&logo=facebook&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://www.facebook.com/cautinhchua/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E8FA?style=for-the-badge&logo=linkedin&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-8512a5362/)
+[![Email](https://img.shields.io/badge/Email-D6E8FA?style=for-the-badge&logo=gmail&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](mailto:nminhsv2024@gmail.com)
 
 </div>
 
