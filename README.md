@@ -35,7 +35,7 @@ class Minhnguyen376:
     mindset     = "Economic-first · Product-centered · Data-backed"
 
     superpower  = {
-        "Scoring Systems"  : "Design internal scoring logic for products — not the algorithm, the thinking.",
+        "Systems Design"  : "Design core system for products — not the algorithm, the thinking.",
         "Data Pipeline"    : "Crawl → Clean → Model → Insight. End-to-end ownership.",
         "Product Thinking" : "I ask 'what does this incentivize?' before writing a single line.",
         "Cross-functional" : "FE · BE · AI — I go where the product needs me.",
@@ -179,9 +179,9 @@ class Minhnguyen376:
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="190"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="190"/>
 </div>
 
 <br/>
