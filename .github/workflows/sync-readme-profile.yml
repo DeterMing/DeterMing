@@ -1,0 +1,52 @@
+name: Sync README profile username
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-readme-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync username and user params in README
+        env:
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: |
+          python - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          path = Path("README.md")
+          content = path.read_text(encoding="utf-8")
+          username = os.environ["PROFILE_USERNAME"]
+
+          updated = re.sub(r"(?<=\busername=)[^&\"' )]+", username, content)
+          updated = re.sub(r"(?<=\buser=)[^&\"' )]+", username, updated)
+
+          if updated != content:
+              path.write_text(updated, encoding="utf-8")
+              print("README.md updated.")
+          else:
+              print("No username changes needed.")
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add README.md
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "chore: sync README stats username with repository owner"
+          git push

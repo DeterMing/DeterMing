@@ -91,48 +91,54 @@ class minhnguyen376:
 ## 💡 What I Actually Do (Beyond Job Titles)
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Scoring System Design
-> Not writing algorithms — designing **how products measure value internally**.
->
-> What makes a user "high quality"? What signals predict churn? What weight does each feature carry?
->
-> I architect the scoring logic that sits behind the product decisions.
-
-</td>
-<td width="50%" valign="top">
-
-### 🕷️ Data Crawling & Pipelines
-> End-to-end: **Scrape → Validate → Transform → Store → Serve.**
->
-> If the data exists on the web, I can get it, clean it, and turn it into something useful.
->
-> I own the pipeline from source to insight.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Economic Thinking in Product
-> Before building, I ask:
-> *"What behavior does this incentivize?"*
-> *"Does this move the right metric for the right reason?"*
->
-> I lean closer to **business & economics** than pure engineering — which makes the things I build actually matter.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Multilingual Perspective
-> Working across **6 languages** shapes how I think about users.
->
-> Different markets have different mental models. That fluency — linguistic and cultural — makes me build products that feel native, not translated.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
+        <h3 style="margin-top:0;color:#0D3B6E;">📊 Scoring System Design</h3>
+        <p style="margin-bottom:8px;color:#0D3B6E;">
+          Designing <strong>how products measure value internally</strong>, not just building algorithms.
+        </p>
+        <p style="margin:0;color:#0D3B6E;">
+          I define user quality signals, churn indicators, and feature weights that drive product decisions.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
+        <h3 style="margin-top:0;color:#0D3B6E;">🕷️ Data Crawling & Pipelines</h3>
+        <p style="margin-bottom:8px;color:#0D3B6E;">
+          End-to-end ownership: <strong>Scrape → Validate → Transform → Store → Serve</strong>.
+        </p>
+        <p style="margin:0;color:#0D3B6E;">
+          From messy sources to structured insights, I build robust pipelines that products can trust.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
+        <h3 style="margin-top:0;color:#0D3B6E;">💰 Economic Thinking in Product</h3>
+        <p style="margin-bottom:8px;color:#0D3B6E;">
+          Before building, I ask: <em>"What behavior does this incentivize?"</em>
+        </p>
+        <p style="margin:0;color:#0D3B6E;">
+          I combine business and economics with engineering to move the right metric for the right reason.
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
+        <h3 style="margin-top:0;color:#0D3B6E;">🌐 Multilingual Perspective</h3>
+        <p style="margin-bottom:8px;color:#0D3B6E;">
+          Working across <strong>6 languages</strong> gives me a practical user-first lens.
+        </p>
+        <p style="margin:0;color:#0D3B6E;">
+          I build products that feel native to different markets, not simply translated.
+        </p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -157,9 +163,9 @@ class minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="165"/>
 </div>
 
 <br/>
@@ -195,6 +201,7 @@ class minhnguyen376:
 
 [![Facebook](https://img.shields.io/badge/Facebook-D6E8FA?style=for-the-badge&logo=facebook&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://facebook.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E8FA?style=for-the-badge&logo=linkedin&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D6E8FA?style=for-the-badge&logo=gmail&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](mailto:your.email@example.com)
 
 </div>
 
