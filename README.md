@@ -225,7 +225,7 @@ class DeterMing:
 
 <div align="center">
 
-> *"The goal is not to have good data. The goal is to make good decisions."*
+> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
 </div>
 
