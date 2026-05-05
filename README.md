@@ -6,7 +6,7 @@
 
 *Bridging the gap between raw data, user needs, and business value. Commit by commit.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=0D3B6E&center=true&vCenter=true&width=620&lines=Business+Analyst+%7C+Data+Analyst+%7C+Data+Scientist+%7C+Project+Manager+%F0%9F%93%8A;Turning+data+into+product+decisions+that+scale+%F0%9F%92%A1;Designing+core+system+frameworks+for+business+impact+%F0%9F%8E%AF;Building+reliable+pipelines+from+source+to+insight+%F0%9F%94%A7;Bridging+strategy+and+technical+execution+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=0D3B6E&center=true&vCenter=true&width=620&lines=Business+Analyst+%7C+Data+Analyst+%7C+Data+Science+%7C+Project+Manager;Defining+evaluation+frameworks+%26+scoring+logic;Turning+data+into+product+decisions+that+scale;Building+reliable+pipelines+from+source+to+insight;Bridging+market+strategy+and+technical+execution)](https://git.io/typing-svg)
 
 </div>
 
