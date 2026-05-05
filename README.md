@@ -89,7 +89,7 @@ class DeterMing:
 
 ---
 
-## 💡 What I Actually Do (Beyond Job Titles)
+## What I Actually Do (Beyond Job Titles)
 
 <table>
   <tr>
