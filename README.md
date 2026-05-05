@@ -178,9 +178,9 @@ class minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Minhnguyen376&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=38bdf8&text_color=9d8cb0&ring_color=a78bfa" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E&cache_seconds=1800" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minhnguyen376&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0a0a0f&title_color=a78bfa&text_color=9d8cb0" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E&cache_seconds=1800" height="165"/>
 </div>
 
 <br/>
