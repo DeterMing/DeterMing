@@ -4,9 +4,9 @@
 
 <div align="center">
 
-*Building intelligent solutions, one commit at a time*
+*Bridging the gap between raw data, user needs, and business value. Commit by commit.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=0D3B6E&center=true&vCenter=true&width=620&lines=Business+Analyst+%7C+Data+Analyst+%7C+Data+Scientist+%F0%9F%93%8A;Turning+data+into+product+decisions+that+scale+%F0%9F%92%A1;Designing+scoring+frameworks+for+business+impact+%F0%9F%8E%AF;Building+reliable+pipelines+from+source+to+insight+%F0%9F%94%A7;Bridging+strategy+and+technical+execution+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=0D3B6E&center=true&vCenter=true&width=620&lines=Business+Analyst+%7C+Data+Analyst+%7C+Data+Scientist+%7C+Project+Manager+%F0%9F%93%8A;Turning+data+into+product+decisions+that+scale+%F0%9F%92%A1;Designing+core+system+frameworks+for+business+impact+%F0%9F%8E%AF;Building+reliable+pipelines+from+source+to+insight+%F0%9F%94%A7;Bridging+strategy+and+technical+execution+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 ```python
 class DeterMing:
@@ -35,10 +35,10 @@ class DeterMing:
     mindset     = "Economic-first · Product-centered · Data-backed"
 
     superpower  = {
-        "Systems Design"  : "Design core system for products — not the algorithm, the thinking.",
-        "Data Pipeline"    : "Crawl → Clean → Model → Insight. End-to-end ownership.",
-        "Product Thinking" : "I ask 'what does this incentivize?' before writing a single line.",
-        "Cross-functional" : "FE · BE · AI — I go where the product needs me.",
+        "Systems Logic"    : "Defining core evaluation frameworks and scoring logic to align business criteria with technical execution.",
+        "Data Pipeline"    : "End-to-end management from raw ingestion (Crawl/Scrape) to actionable insight (Model/Serve).",
+        "Product Thinking" : "Evaluating incentive structures and behavioral economics before development begins.",
+        "Cross-functional" : "Operating across BA, DA, and DS domains to bridge the gap between complex data and strategic action."
     }
 
     languages   = {
@@ -56,29 +56,29 @@ class DeterMing:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🧠 Data & AI
+### Data & AI
 ![Python](https://img.shields.io/badge/Python-D6E8FA?style=for-the-badge&logo=python&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![C++](https://img.shields.io/badge/C++-D6E8FA?style=for-the-badge&logo=c%2B%2B&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![Pandas](https://img.shields.io/badge/Pandas-D6E8FA?style=for-the-badge&logo=pandas&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-D6E8FA?style=for-the-badge&logo=scikit-learn&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![Web Crawling](https://img.shields.io/badge/Web%20Crawling-D6E8FA?style=for-the-badge&logo=python&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 
-### 🖥️ Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-D6E8FA?style=for-the-badge&logo=react&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![TypeScript](https://img.shields.io/badge/TypeScript-D6E8FA?style=for-the-badge&logo=typescript&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![HTML5](https://img.shields.io/badge/HTML5-D6E8FA?style=for-the-badge&logo=html5&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 
-### ⚙️ Backend & Database
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-D6E8FA?style=for-the-badge&logo=node.js&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D6E8FA?style=for-the-badge&logo=postgresql&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![MySQL](https://img.shields.io/badge/MySQL-D6E8FA?style=for-the-badge&logo=mysql&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![Supabase](https://img.shields.io/badge/Supabase-D6E8FA?style=for-the-badge&logo=supabase&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 
-### 🚀 DevOps & Deployment
+### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-D6E8FA?style=for-the-badge&logo=docker&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![Git](https://img.shields.io/badge/Git-D6E8FA?style=for-the-badge&logo=git&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![GitHub](https://img.shields.io/badge/GitHub-D6E8FA?style=for-the-badge&logo=github&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
@@ -95,23 +95,23 @@ class DeterMing:
   <tr>
     <td width="50%" valign="top">
       <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
-        <h3 style="margin-top:0;color:#0D3B6E;">📊 Scoring System Design</h3>
+        <h3 style="margin-top:0;color:#0D3B6E;">Evaluation Framework Design</h3>
         <p style="margin-bottom:8px;color:#0D3B6E;">
-          Designing <strong>how products measure value internally</strong>, not just building algorithms.
+          Defining product value measurement systems by synthesizing user behavioral data and market trends.
         </p>
         <p style="margin:0;color:#0D3B6E;">
-          I define user quality signals, churn indicators, and feature weights that drive product decisions.
+          Establishing attribute weighting and scoring logic to align technical execution with business evaluation criteria.
         </p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
-        <h3 style="margin-top:0;color:#0D3B6E;">🕷️ Data Crawling & Pipelines</h3>
+        <h3 style="margin-top:0;color:#0D3B6E;">Data Crawling & Pipelines</h3>
         <p style="margin-bottom:8px;color:#0D3B6E;">
-          End-to-end ownership: <strong>Scrape → Validate → Transform → Store → Serve</strong>.
+          End-to-end management of data lifecycles: <strong>Scrape → Validate → Transform → Store → Serve</strong>.
         </p>
         <p style="margin:0;color:#0D3B6E;">
-          From messy sources to structured insights, I build robust pipelines that products can trust.
+          Engineering robust data infrastructures to convert disparate sources into structured, actionable product insights.
         </p>
       </div>
     </td>
@@ -119,23 +119,23 @@ class DeterMing:
   <tr>
     <td width="50%" valign="top">
       <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
-        <h3 style="margin-top:0;color:#0D3B6E;">💰 Economic Thinking in Product</h3>
+        <h3 style="margin-top:0;color:#0D3B6E;">Product & Economic Thinking</h3>
         <p style="margin-bottom:8px;color:#0D3B6E;">
-          Before building, I ask: <em>"What behavior does this incentivize?"</em>
+          Applying economic principles to product design to incentivize specific user behaviors.
         </p>
         <p style="margin:0;color:#0D3B6E;">
-          I combine business and economics with engineering to move the right metric for the right reason.
+          Bridging the gap between business objectives and engineering to drive high-impact metrics.
         </p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
-        <h3 style="margin-top:0;color:#0D3B6E;">🌐 Multilingual Perspective</h3>
+        <h3 style="margin-top:0;color:#0D3B6E;">Multilingual Perspective</h3>
         <p style="margin-bottom:8px;color:#0D3B6E;">
-          Working across <strong>7 languages</strong> gives me a practical user-first lens.
+          Leveraging knowledge in 7 languages to provide a native, user-first perspective across diverse markets.
         </p>
         <p style="margin:0;color:#0D3B6E;">
-          I build products that feel native to different markets, not simply translated.
+          Goes beyond translation to build products that resonate with local market dynamics and cultural nuances.
         </p>
       </div>
     </td>
@@ -143,12 +143,12 @@ class DeterMing:
   <tr>
     <td colspan="2" valign="top">
       <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
-        <h3 style="margin-top:0;color:#0D3B6E;">🗂️ Product Development Management (Project Manager)</h3>
+        <h3 style="margin-top:0;color:#0D3B6E;">Product Development Management (Project Manager)</h3>
         <p style="margin-bottom:8px;color:#0D3B6E;">
-          I align business goals, technical execution, and timeline delivery across teams.
+          Aligning business goals, technical constraints, and delivery timelines across cross-functional teams.
         </p>
         <p style="margin:0;color:#0D3B6E;">
-          From planning roadmap to tracking milestones, I keep product development moving with clarity.
+          Streamlining product development through strategic roadmap planning and milestone tracking.
         </p>
       </div>
     </td>
@@ -157,7 +157,7 @@ class DeterMing:
 
 ---
 
-## 🌍 Human Languages
+## Human Languages
 
 <div align="center">
 
@@ -175,7 +175,7 @@ class DeterMing:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeterMing&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="180"/>
@@ -198,7 +198,7 @@ class DeterMing:
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -211,7 +211,7 @@ class DeterMing:
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
