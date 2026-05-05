@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E8FA,45:C2DCF7,100:A9CBEE&height=220&section=header&text=Minhnguyen376&fontSize=52&fontColor=0D3B6E&fontAlignY=42&desc=Business%20Analyst%20%2F%20Data%20Scientist%20%2F%20Project%20Manager&descSize=18&descAlignY=65&descColor=0D3B6E&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E8FA,45:C2DCF7,100:A9CBEE&height=220&section=header&text=DeterMing&fontSize=52&fontColor=0D3B6E&fontAlignY=42&desc=Business%20Analyst%20%2F%20Data%20Scientist%20%2F%20Project%20Manager&descSize=18&descAlignY=65&descColor=0D3B6E&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,9 +13,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Minhnguyen376?style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Followers&logo=github&logoColor=0D3B6E" />
+  <img src="https://img.shields.io/github/followers/DeterMing?style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Followers&logo=github&logoColor=0D3B6E" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Minhnguyen376&style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=DeterMing&style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Profile+Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Data%20%26%20Product-0D3B6E?style=flat-square&labelColor=D6E8FA" />
   &nbsp;
@@ -29,7 +29,7 @@
 ## 🧬 About Me
 
 ```python
-class Minhnguyen376:
+class DeterMing:
 
     role        = ["Business Analyst (BA)", "Data Analyst", "Data Scientist", "Full-Stack Engineer (on demand)"]
     mindset     = "Economic-first · Product-centered · Data-backed"
@@ -178,22 +178,22 @@ class Minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeterMing&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=6&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeterMing&hide_border=true&layout=compact&langs_count=6&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="180"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Minhnguyen376&hide_border=true&background=D6E8FA&stroke=0D3B6E&ring=0D3B6E&fire=0D3B6E&currStreakLabel=0D3B6E&sideLabels=0D3B6E&dates=0D3B6E&currStreakNum=0D3B6E&sideNums=0D3B6E" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=DeterMing&hide_border=true&background=D6E8FA&stroke=0D3B6E&ring=0D3B6E&fire=0D3B6E&currStreakLabel=0D3B6E&sideLabels=0D3B6E&dates=0D3B6E&currStreakNum=0D3B6E&sideNums=0D3B6E" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhnguyen376&bg_color=D6E8FA&color=0D3B6E&line=0D3B6E&point=0D3B6E&area_color=C2DCF7&hide_border=true&area=true" width="94%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeterMing&bg_color=D6E8FA&color=0D3B6E&line=0D3B6E&point=0D3B6E&area_color=C2DCF7&hide_border=true&area=true" width="94%"/>
 </div>
 
 ---
