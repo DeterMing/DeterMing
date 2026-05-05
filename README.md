@@ -178,10 +178,9 @@ class Minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="210"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=6&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E"
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=6&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="210"/>
 </div>
 
 <br/>
