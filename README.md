@@ -178,9 +178,9 @@ class minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E&cache_seconds=1800" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E&cache_seconds=1800" height="165"/>
 </div>
 
 <br/>
