@@ -31,7 +31,7 @@
 ```python
 class DeterMing:
 
-    role        = ["Business Analyst (BA)", "Data Analyst", "Data Scientist", "Full-Stack Engineer (on demand)"]
+    role        = ["Business Analyst (BA)", "Data Analyst (DA)", "Data Scientist (DS)", "Project Manager (PM)"]
     mindset     = "Economic-first · Product-centered · Data-backed"
 
     superpower  = {
