@@ -31,7 +31,7 @@
 ```python
 class minhnguyen376:
 
-    role        = ["Data Analyst", "Data Scientist", "Full-Stack Engineer (on demand)"]
+    role        = ["Business Analyst (BA)", "Data Analyst", "Data Scientist", "Full-Stack Engineer (on demand)"]
     mindset     = "Economic-first · Product-centered · Data-backed"
 
     superpower  = {
@@ -42,6 +42,7 @@ class minhnguyen376:
     }
 
     languages   = {
+        "Vietnamese": "Native  ██████████",
         "English"  : "C2  ██████████",
         "Chinese"  : "C1  █████████░",
         "Taiwanese": "B1  ███████░░░",
@@ -131,10 +132,23 @@ class minhnguyen376:
       <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
         <h3 style="margin-top:0;color:#0D3B6E;">🌐 Multilingual Perspective</h3>
         <p style="margin-bottom:8px;color:#0D3B6E;">
-          Working across <strong>6 languages</strong> gives me a practical user-first lens.
+          Working across <strong>7 languages</strong> gives me a practical user-first lens.
         </p>
         <p style="margin:0;color:#0D3B6E;">
           I build products that feel native to different markets, not simply translated.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <div style="background:#D6E8FA;padding:14px;border-radius:12px;">
+        <h3 style="margin-top:0;color:#0D3B6E;">🗂️ Product Development Management (Project Manager)</h3>
+        <p style="margin-bottom:8px;color:#0D3B6E;">
+          I align business goals, technical execution, and timeline delivery across teams.
+        </p>
+        <p style="margin:0;color:#0D3B6E;">
+          From planning roadmap to tracking milestones, I keep product development moving with clarity.
         </p>
       </div>
     </td>
@@ -149,6 +163,7 @@ class minhnguyen376:
 
 | Language | Level | Fluency |
 |:---:|:---:|:---|
+| 🇻🇳 Vietnamese | **Native** | `██████████` Native |
 | 🇬🇧 English   | **C2** | `██████████` Mastery |
 | 🇨🇳 Chinese   | **C1** | `█████████░` Advanced |
 | 🇹🇼 Taiwanese | **B1** | `███████░░░` Intermediate |
@@ -163,9 +178,9 @@ class minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E&cache_seconds=1800" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E&cache_seconds=1800" height="165"/>
 </div>
 
 <br/>
