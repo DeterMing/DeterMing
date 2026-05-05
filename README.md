@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/minhnguyen376?style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Followers&logo=github&logoColor=0D3B6E" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=minhnguyen376&style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Minhnguyen376&style=flat-square&color=0D3B6E&labelColor=D6E8FA&label=Profile+Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Data%20%26%20Product-0D3B6E?style=flat-square&labelColor=D6E8FA" />
   &nbsp;
@@ -163,21 +163,21 @@ class minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=minhnguyen376&hide_border=true&background=D6E8FA&stroke=0D3B6E&ring=0D3B6E&fire=0D3B6E&currStreakLabel=0D3B6E&sideLabels=0D3B6E&dates=0D3B6E&currStreakNum=0D3B6E&sideNums=0D3B6E" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=Minhnguyen376&hide_border=true&background=D6E8FA&stroke=0D3B6E&ring=0D3B6E&fire=0D3B6E&currStreakLabel=0D3B6E&sideLabels=0D3B6E&dates=0D3B6E&currStreakNum=0D3B6E&sideNums=0D3B6E" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhnguyen376&bg_color=D6E8FA&color=0D3B6E&line=0D3B6E&point=0D3B6E&area_color=C2DCF7&hide_border=true&area=true" width="94%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhnguyen376&bg_color=D6E8FA&color=0D3B6E&line=0D3B6E&point=0D3B6E&area_color=C2DCF7&hide_border=true&area=true" width="94%"/>
 </div>
 
 ---
