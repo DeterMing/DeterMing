@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E8FA,45:C2DCF7,100:A9CBEE&height=220&section=header&text=Minhnguyen376&fontSize=52&fontColor=0D3B6E&fontAlignY=42&desc=Business%20Analyst%20%2F%20Data%20Scientist%20%2F%20Product%20Engineer&descSize=18&descAlignY=65&descColor=0D3B6E&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E8FA,45:C2DCF7,100:A9CBEE&height=220&section=header&text=Minhnguyen376&fontSize=52&fontColor=0D3B6E&fontAlignY=42&desc=Business%20Analyst%20%2F%20Data%20Scientist%20%2F%20Project%20Manager&descSize=18&descAlignY=65&descColor=0D3B6E&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 ## 🧬 About Me
 
 ```python
-class minhnguyen376:
+class Minhnguyen376:
 
     role        = ["Business Analyst (BA)", "Data Analyst", "Data Scientist", "Full-Stack Engineer (on demand)"]
     mindset     = "Economic-first · Product-centered · Data-backed"
@@ -178,9 +178,10 @@ class minhnguyen376:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E&cache_seconds=1800" height="165"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Minhnguyen376&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=D6E8FA&title_color=0D3B6E&icon_color=0D3B6E&text_color=0D3B6E&ring_color=0D3B6E" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minhnguyen376&hide_border=true&layout=compact&langs_count=8&bg_color=D6E8FA&title_color=0D3B6E&text_color=0D3B6E" height="165"/>
 </div>
 
 <br/>
