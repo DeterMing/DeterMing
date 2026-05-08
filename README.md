@@ -84,6 +84,7 @@ class DeterMing:
 ![GitHub](https://img.shields.io/badge/GitHub-D6E8FA?style=for-the-badge&logo=github&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![Vercel](https://img.shields.io/badge/Vercel-D6E8FA?style=for-the-badge&logo=vercel&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![Railway](https://img.shields.io/badge/Railway-D6E8FA?style=for-the-badge&logo=railway&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
+![Render](https://img.shields.io/badge/Render-D6E8FA?style=for-the-badge&logo=render&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 
 </div>
 
