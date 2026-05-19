@@ -219,7 +219,7 @@ class DeterMing:
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-D6E8FA?style=for-the-badge&logo=facebook&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://www.facebook.com/cautinhchua/)
+[![Facebook](https://img.shields.io/badge/Facebook-D6E8FA?style=for-the-badge&logo=facebook&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://www.facebook.com/Determ1ng/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D6E8FA?style=for-the-badge&logo=linkedin&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-8512a5362/)
 [![Email](https://img.shields.io/badge/Email-D6E8FA?style=for-the-badge&logo=gmail&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)](mailto:nminhsv2024@gmail.com)
 
