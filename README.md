@@ -72,6 +72,9 @@ class DeterMing:
 ![TypeScript](https://img.shields.io/badge/TypeScript-D6E8FA?style=for-the-badge&logo=typescript&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![HTML5](https://img.shields.io/badge/HTML5-D6E8FA?style=for-the-badge&logo=html5&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 
+### Design & UI
+![Figma](https://img.shields.io/badge/Figma-D6E8FA?style=for-the-badge&logo=figma&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
+
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-D6E8FA?style=for-the-badge&logo=node.js&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D6E8FA?style=for-the-badge&logo=postgresql&logoColor=0D3B6E&color=D6E8FA&labelColor=D6E8FA)
